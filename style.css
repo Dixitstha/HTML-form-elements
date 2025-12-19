@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+form{
+    border: 1px solid red;
+}
+
+label{
+    font-weight: bold;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: center;
+}
